@@ -1,0 +1,10 @@
+======DON HANG THANH CONG ======
+Ma don: 1
+Ten khach hang: haha
+Dia chi: nha ma
+Dien thoai: 09090909
+Ngay dat: 09/07/2000
+***Cac san pham dat mua la***
+   Ma hang hoa 001 voi 20 so luong.
+
+=====================================================

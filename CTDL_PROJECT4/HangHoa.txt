@@ -1,0 +1,13 @@
+001~Lon sua bot Ensure Gold~VietNam~xanh~378000~20/10/2020~5000
+002~Tra xanh Tan cuong~VietNam~xanh~25500~31/2/2011~10000
+003~Tra olong Loc Phat~VietNam~xanh~9300~23/3/2022~5300
+004~Sua chua vinamilk~VietNam~trang~7000~31/10/2022~8003
+006~Ha toc cho~Australia~nau~70000~7/11/2020~5000
+007~Ao thun tay ngan~China~xanh~70000~23/2/2018~6600
+008~Binh oxi mini la xanh~China~trang~90000~31/2/2017~33
+009~Khau trang Unicharm~Japan~trang~433000~/23/3/2021~1000
+011~LAPTOP ASUS~India~xam~50000~21/07/2023~4500
+012~Mouse~Cambodia~do~15000~21/07/2000~5000
+pa~a~s~x~0~~0
+~~~~0~~0
+099~Sua Dac~Viet Nam~Do~10000~22/1/2021~3
